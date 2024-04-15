@@ -13,6 +13,8 @@ import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
 
+//added from local
+
 @Component
 public class SpringJpaBootstrap implements ApplicationListener<ContextRefreshedEvent> {
 
